@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuexixx007.github.io</id>
     <title>学习007</title>
-    <updated>2020-05-08T06:26:56.345Z</updated>
+    <updated>2020-05-08T06:28:32.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xuexixx007.github.io"/>
     <link rel="self" href="https://xuexixx007.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://xuexixx007.github.io/images/avatar.png</logo>
     <icon>https://xuexixx007.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 学习007</rights>
+    <entry>
+        <title type="html"><![CDATA[zz]]></title>
+        <id>https://xuexixx007.github.io/post/zz/</id>
+        <link href="https://xuexixx007.github.io/post/zz/">
+        </link>
+        <updated>2020-05-08T06:28:13.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xuexixx007.github.io/post-images/1588919300200.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【一次购买 终身免费】 ]]></title>
         <id>https://xuexixx007.github.io/post/f/</id>
