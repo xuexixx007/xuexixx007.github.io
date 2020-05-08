@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaoliziblog.github.io</id>
+    <id>https://xuexixx007.github.io</id>
     <title>小李子博客</title>
-    <updated>2020-03-25T13:19:16.827Z</updated>
+    <updated>2020-05-08T01:14:38.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xiaoliziblog.github.io"/>
-    <link rel="self" href="https://xiaoliziblog.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xuexixx007.github.io"/>
+    <link rel="self" href="https://xuexixx007.github.io/atom.xml"/>
     <subtitle>小李子，大块头</subtitle>
-    <logo>https://xiaoliziblog.github.io/images/avatar.png</logo>
-    <icon>https://xiaoliziblog.github.io/favicon.ico</icon>
+    <logo>https://xuexixx007.github.io/images/avatar.png</logo>
+    <icon>https://xuexixx007.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小李子博客</rights>
     <entry>
         <title type="html"><![CDATA[f]]></title>
-        <id>https://xiaoliziblog.github.io/post/f/</id>
-        <link href="https://xiaoliziblog.github.io/post/f/">
+        <id>https://xuexixx007.github.io/post/f/</id>
+        <link href="https://xuexixx007.github.io/post/f/">
         </link>
         <updated>2020-03-25T12:02:33.000Z</updated>
         <content type="html"><![CDATA[<p>asdsadsad</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xiaoliziblog.github.io/post/hello-gridea/</id>
-        <link href="https://xiaoliziblog.github.io/post/hello-gridea/">
+        <id>https://xuexixx007.github.io/post/hello-gridea/</id>
+        <link href="https://xuexixx007.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
