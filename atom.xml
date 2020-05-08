@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xuexixx007.github.io</id>
-    <title>小李子博客</title>
-    <updated>2020-05-08T01:15:30.262Z</updated>
+    <title>学习007</title>
+    <updated>2020-05-08T01:17:28.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xuexixx007.github.io"/>
     <link rel="self" href="https://xuexixx007.github.io/atom.xml"/>
-    <subtitle>小李子，大块头</subtitle>
+    <subtitle>从别的地方花的钱买到的只有资料，而在这里能收获的不仅仅是资料，还有伙伴与知识，伴你成长 </subtitle>
     <logo>https://xuexixx007.github.io/images/avatar.png</logo>
     <icon>https://xuexixx007.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 小李子博客</rights>
+    <rights>All rights reserved 2020, 学习007</rights>
     <entry>
         <title type="html"><![CDATA[f]]></title>
         <id>https://xuexixx007.github.io/post/f/</id>
